@@ -41,10 +41,11 @@ export function SiteHeader() {
         </div>
       </nav>
 
-      <section
-        id="home"
-        className="mx-auto grid min-h-[76vh] max-w-6xl items-center gap-12 px-6 py-16 md:grid-cols-[1.1fr_0.9fr]"
-      >
+      <div className="hero-background">
+        <section
+          id="home"
+          className="mx-auto grid min-h-[76vh] max-w-6xl items-center gap-12 px-6 py-16 md:grid-cols-[1.1fr_0.9fr]"
+        >
         <div className="animate-fade-up">
           <p className="mb-3 text-sm font-semibold uppercase tracking-[0.18em] text-sky-700">
             Hello, I&apos;m
@@ -99,7 +100,8 @@ export function SiteHeader() {
             </p>
           </div>
         </div>
-      </section>
+        </section>
+      </div>
     </>
   );
 }
