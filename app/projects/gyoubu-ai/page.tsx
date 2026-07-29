@@ -73,7 +73,7 @@ export default function GyoubuAiProjectPage() {
               </div>
             </div>
             <a
-              href="/projects/gyoubu-ai/screenshots/Giewbu_Project.pdf"
+              href="/projects/gyoubu-ai/screenshots/Gyoubu_AI_Project.pdf"
               target="_blank"
               rel="noreferrer"
               className="inline-flex shrink-0 rounded-lg bg-slate-950 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-sky-700"
