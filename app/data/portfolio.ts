@@ -74,6 +74,16 @@ export const projects = [
     imageAlt: "Weka workflow for the phishing website detection project",
     detailsLink: "/projects/phishing-website-detection",
   },
+  {
+    title: "Save Tang",
+    category: "Personal Project",
+    summary:
+      "A personal website for planning how to save money for items a user wants to buy. It calculates the remaining days and shows progress toward each saving goal.",
+    techStack: ["HTML5", "CSS", "JavaScript"],
+    image: "/projects/Save_tang/savetang/picture/1.png",
+    imageAlt: "Save Tang saving goal calculator home page",
+    detailsLink: "/projects/save-tang",
+  },
 ];
 
 export const education = {
