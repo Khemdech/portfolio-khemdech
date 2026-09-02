@@ -5,10 +5,11 @@ export const technicalSkills = [
     skills: [
       "CSS (Basic)",
       "Dart",
+      "HTML 5 (Beginner)",
       "Java (Basic)",
-      "JavaScript (Basic)",
+      "JavaScript (Beginner)",
       "Python",
-      "TypeScript (Basic)",
+      "TypeScript (Beginner)",
     ],
   },
   {
@@ -91,7 +92,7 @@ export const education = {
   degree: "Bachelor of Computer Science",
   faculty: "School of Information Technology and Innovation",
   period: "2023 - Present",
-  gpax: "3.31",
+  gpax: "3.25",
 };
 
 export const certificates = [
